@@ -1,4 +1,4 @@
-## Datasets for testing the SciFlow framework
+## Datasets for evaluating the SciFlow framework
 
 Contains datasets for the two case studies considered. 
 
